@@ -1,0 +1,49 @@
+.box div{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color:#5053ce;
+}
+.box div:nth-child(1){
+    top: 20%;
+    left: 35%;
+    animation: animate 10s linear infinite 
+}
+.box div:nth-child(2){
+    top:30% ;
+    left: 20%;
+    animation: animate 15s linear infinite;
+
+}
+.box div:nth-child(3){
+    top: 50%;
+    left: 75%;
+    animation: animate 8s linear infinite;
+}
+.box div:nth-child(4){
+    top: 75%;
+    left: 90%;
+    animation: animate 6s linear infinite;
+
+}
+.bubbles{
+    top: 0;
+    height: 200px;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+
+
+@keyframes animate{
+    0%{
+        transform: scale(0) translateY(0);
+        opacity: 1;
+    }
+100%{
+    transform: scale(1.5) translateY(-100px);
+    opacity: 0;
+}
+}

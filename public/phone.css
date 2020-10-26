@@ -1,0 +1,371 @@
+@media screen and (min-width: 590px) and (max-width: 590px){
+    body{
+        width: 590px;
+    }
+    #img1{
+        display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    }
+    #titulo-de-pag{
+        font-size: 40px;
+    }
+    #parrafo1{
+        font-size: 20px;
+    }
+    .nav-right-botonera-li{
+        font-size: 10px;
+        margin-right: 20px;
+    }
+    #logo{
+        height: 35px;
+        width: 70px;
+    }
+    #freetrial{
+        height: 20px;
+        width: 50px;
+        margin-right: 15px;
+        font-size: 9px;
+    }
+    .titulo1{
+        font-size: 10px;
+    }
+    .imagen{
+        height: 40px;
+        width: 40px;
+    }
+    #part1{
+        height: 310px;
+    }
+    .card{
+        background-color: rgba(233, 233, 231, 0.918);
+        margin-right: 20px;
+        height: 250px;
+        width: 140px;
+    }
+    .parrafo{
+        font-size: 10px;
+        text-align: center;
+        width: 120px;
+    }
+    #part2{
+        height: 300px;
+    }
+    .img5{
+        height: 200px;
+        width: 200px;
+        margin-left: 5px;
+    }
+    #parte3{
+        height: 300px;
+    }
+    .parrafo2{
+        width: 250;
+    }
+    .titulo2{
+        width: 250px;
+    }
+    .parrafo3{
+        margin-left: 20PX;
+        width: 250px;
+    }
+    .titulo3{
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    #imagin{
+        margin-top: 80px;
+        margin-left: 80px;
+        float: left;
+    }
+    .contenedor{
+        width: 200px;
+    }
+}
+@media screen and (min-width: 600px) and (max-width: 650px) {
+    body{
+        width: 650px;
+    }
+    #img1{
+        display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    }
+    #titulo-de-pag{
+        font-size: 60px;
+    }
+    #parrafo1{
+        font-size: 20px;
+    }
+    .nav-right-botonera-li{
+        font-size: 15px;
+    }
+    #logo{
+        height: 40px;
+        width: 80px;
+    }
+    #freetrial{
+        height: 30px;
+        width: 60px;
+        margin-right: 40px;
+        font-size: 10px;
+    }
+    .titulo1{
+        font-size: 20px;
+    }
+    .imagen{
+        height: 60px;
+        width: 60px;
+    }
+    .card{
+        background-color: rgba(233, 233, 231, 0.918);
+        margin-right: 20px;
+        height: 300px;
+        width: 400px;
+    }
+    .parrafo{
+        font-size: 12px;
+        text-align: center;
+        width: 120px;
+    }
+    #part2{
+        height: 300px;
+    }
+    .img5{
+        height: 200px;
+        width: 250px;
+        margin-left: 5px;
+    }
+    #parte3{
+        height: 300px;
+    }
+    .parrafo2{
+        width: 300;
+    }
+    .titulo2{
+        width: 300px;
+    }
+    .parrafo3{
+        margin-left: 20px;
+        width: 300px;
+    }
+    .titulo3{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    #imagin{
+        margin-top: 150px;
+        margin-left: 150px;
+        float: left;
+    }
+    .contenedor{
+        width: 200px;
+    }
+}
+@media screen and (min-width: 375px) and (max-width: 412px) {
+    body{
+        width: 400px;
+    }
+    #img1{
+        display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    }
+    #titulo-de-pag{
+        font-size: 40px;
+    }
+    #parrafo1{
+        font-size: 20px;
+    }
+    .nav-right-botonera-li{
+        font-size: 8px;
+    }
+    #logo{
+        height: 40px;
+        width: 80px;
+    }
+    #freetrial{
+        height: 30px;
+        width: 60px;
+        margin-right: 10px;
+        font-size: 10px;
+    }
+    .titulo1{
+        font-size: 15px;
+    }
+    .imagen{
+        height: 40px;
+        width: 40px;
+    }
+    #part1{
+        width: 395px;
+        height: 300;
+    }
+    .card{
+        background-color: rgba(233, 233, 231, 0.918);
+        height: 250px;
+        width: 110px;
+        margin-left: 5px;
+    }
+    #card3{
+        margin-right: 25px;
+    }
+
+    .parrafo{
+        font-size: 8px;
+        text-align: center;
+        width: 80px;
+    }
+    #part2{
+        height: 300px;
+    }
+    .img5{
+        margin-top: 50%;
+        height: 100px;
+        width: 80px;
+        margin-left: 5px;
+    }
+    #parte3{
+        height: 300px;
+    }
+    .parrafo2{
+        margin-left:0;
+        width: 200;
+    }
+    .titulo2{
+        width: 260px;
+    }
+    .parrafo3{
+        margin-left: 20px;
+        width: 200px;
+    }
+    .titulo3{
+        width: 280;
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    #imagin{
+        margin-top: 50%;
+        margin-left: 50px;
+        float: left;
+    }
+    .contenedor{
+        width: 200px;
+    }
+}
+@media screen and (min-width: 250px) and (max-width: 370px) {
+    body{
+        width: 400px;
+    }
+    #img1{
+        display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-right: 60px;
+    }
+    #boton1{
+        margin-left: -60px;
+    }
+    #titulo-de-pag{
+        font-size: 20px;
+    }
+    #parrafo1{
+        font-size: 20px;
+        margin-left: -85px;
+    }
+    .nav-right-botonera-li{
+        font-size: 8px;
+        margin-right: 5px;
+    }
+    #logo{
+        height: 20px;
+        width: 40px;
+        margin-left: 20px;
+    }
+    #freetrial{
+        height: 30px;
+        width: 52px;
+        font-size: 10px;
+        margin-right: 40px;
+    }
+    ul.botonera{
+        margin-left: 2px;
+        margin-right: 0px;
+    }
+    .navright{
+        width:300px;
+        margin-right: 10px;
+    }
+    .titulo1{
+        font-size: 15px;
+    }
+    .imagen{
+        height: 40px;
+        width: 40px;
+    }
+    #part1{
+        width: 300px;
+        height: 300;
+    }
+    .card{
+        background-color: rgba(233, 233, 231, 0.918);
+        height: 250px;
+        width: 95px;
+        margin-left: 5px;
+    }
+    #card3{
+        margin-right: -10px;
+    }
+
+    .parrafo{
+        font-size: 8px;
+        text-align: center;
+        width: 80px;
+    }
+    #part2{
+        height: 300px;
+    }
+    .img5{
+        margin-top: 50%;
+        height: 100px;
+        width: 80px;
+        margin-left: 5px;
+    }
+    #parte3{
+        height: 300px;
+    }
+    .parrafo2{
+        margin-top: -30px;
+        margin-left:0;
+        width: 160px;
+        height: 200px;
+    }
+    .titulo2{
+        width: 220px;
+        font-size: 20px;
+        height:60px ;
+    }
+    .parrafo3{
+        margin-left: -30px;
+        width: 160px;
+        height: 200px;
+    }
+    .titulo3{
+        width: 240;
+        font-size: 20px;
+        margin-bottom: 10px;
+        margin-left: -20px;
+    }
+    #imagin{
+        margin-top: 50%;
+        margin-left: -50px;
+        float: left;
+    }
+    .contenedor{
+        width: 200px;
+    }
+}

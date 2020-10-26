@@ -1,0 +1,255 @@
+.e1{
+    height: 100vh;
+    width: 100%;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image:url(assets/banner-bg.svg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial, sans-serif;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+#boton2{
+    margin-top: 5px;
+}
+.javascript{
+    font-family: Helvetica,Arial, sans-serif;
+    font-size: 15px;;
+    color: white;
+    background: linear-gradient(45deg,rgb(255, 186, 57),rgb(255, 86, 86));
+    border-radius: 5px;
+    width: 450px;
+    height: 45px;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+#logo{
+    height: 50px;
+    margin-left: 20px;
+}
+
+.navright{
+    margin-right: 20px;
+    display: inline;
+
+}
+
+.botonera{
+    margin-right: 20px;
+    display: inline-block;
+    cursor: default;
+}
+
+.nav-right-botonera-li{
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.nav-right-botonera-li:hover{
+    text-decoration: underline;
+}
+
+.boton-principal{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    background: linear-gradient(45deg,rgb(255, 186, 57),rgb(255, 86, 86));
+    border-style: none;
+    outline: none;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#img1{
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#nun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column-reverse;
+    z-index: 1;
+}
+
+
+
+#titulo-de-pag{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    width: 500px;
+}
+
+#parrafo1{
+    text-align: center;
+    height:50px;
+    width: 300px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    border-radius: 10px;
+    margin:10px;
+    z-index: 1;
+}
+.imagen{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 10%;
+    z-index: 1;
+}
+.titulo1{
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    z-index: 1;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+    height:30px ;
+    width: 250px;
+    font-weight: inherit;
+    color: gray;
+}
+
+#part1{
+    margin-top: 0cm;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+#part2{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+}
+.img5{
+    height: 450px;
+    width: 450px;
+    margin: 20px;
+}
+.titulo2{
+    font-size: 35px;
+    height: 80px;
+    width: 400px;
+    margin-bottom: 20px;
+    z-index: 1;
+
+}
+.parrafo2{
+    text-align: justify;
+    margin-right: 20px;
+    height:100px;
+    width: 450px;
+}
+.parte3{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+}
+.titulo3{
+    margin-left: 20px;
+    font-size: 35px;
+    height: 80px;
+    width: 400px;
+    margin-bottom: 60px;
+
+}
+.parrafo3{
+    text-align: justify;
+    height:100px;
+    width: 450px;
+    margin-left: 20px;
+
+}
+.padre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+#imgred1{
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#imgred2{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#imgred3{
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+footer{
+    display: flex;
+    height: 300px;
+    width: 100%;
+    background:url("assets/footer-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
